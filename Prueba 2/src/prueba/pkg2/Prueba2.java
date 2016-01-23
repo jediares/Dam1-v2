@@ -16,6 +16,6 @@ public class Prueba2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-   System.out.println("una prueba"); }
+   System.out.println("una prueba para el nuevo repositorio"); }
    
 }
